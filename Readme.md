@@ -1,4 +1,9 @@
 ### Hi, I’m Nevil Padariya!
 
 
-[![An image of @Nevil163's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Nevil163)](https://holopin.io/@Nevil163)
+<div>
+<div align="center"><img style={{borderRadius: "10px",boxShadow: "rgba(160, 32, 240, 0.35) 0px 5px 15px"}} src="https://github-readme-stats.vercel.app/api?username=Nevil163&show_icons=true&theme=radical"/></div>
+<br />
+<div align="center"><img width="49%" style={{borderRadius: "10px",boxShadow: "rgba(160, 32, 240, 0.35) 0px 5px 15px"}}   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevil163&layout=compact&theme=highcontrast" /></div>
+</div>
+<br />
