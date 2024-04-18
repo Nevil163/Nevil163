@@ -1,4 +1,4 @@
 ### Hi, I’m Nevil Padariya!
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nevil163&&show_icons=true&title_color=151515&icon_color=bgrb12&text_color=000000">
+[![An image of @Nevil163's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Nevil163)](https://holopin.io/@Nevil163)
